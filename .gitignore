@@ -2,3 +2,4 @@ target/
 .idea/
 .DS_Store
 *.iml
+.github/workflows/ci.yml
